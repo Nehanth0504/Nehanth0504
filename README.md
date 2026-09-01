@@ -1,7 +1,7 @@
 ## Hi, I'm Nehanth Yarlagadda 👋
 
 🏗️ **Senior Salesforce Developer** @ Centene Corporation (Remote)  
-⚡ 7 years delivering enterprise Salesforce solutions across **healthcare, government & financial** domains  
+⚡ 5+ years delivering enterprise Salesforce solutions across **healthcare, government & financial** domains  
 🎓 M.S. Computer Science — Lamar University  
 📬 Open to senior/lead Salesforce roles — let's connect!
 
