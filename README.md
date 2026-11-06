@@ -1,66 +1,46 @@
 ## Hi, I'm Nehanth Yarlagadda 👋
 
-🏗️ **Senior Salesforce Developer** @ Centene Corporation (Remote)  
-⚡ 5+ years delivering enterprise Salesforce solutions across **healthcare, government & financial** domains  
-🎓 M.S. Computer Science — Lamar University  
-📬 Open to senior/lead Salesforce roles — let's connect!
+**Forward Deployed Engineer** · I sit with customers, learn how their work really runs, and ship the software and
+AI that fixes it: integrations, data pipelines and LLM features, taken all the way to production.
+
+📍 Dallas, TX · 5+ years in healthcare, government and financial services · 🎓 M.S. Computer Science, Lamar University
 
 ---
 
-## 🏆 Certifications
+### 🚀 What I bring to a customer engagement
 
-| Badge | Certification |
-|-------|--------------|
-| ☁️ | Salesforce Certified Platform Developer I |
-| 🛠️ | Salesforce Certified App Builder |
-| ⚙️ | Salesforce Certified Administrator |
-| 🤖 | Salesforce Certified AI Associate |
-| 🎖️ | Salesforce Certified Associate |
+- **Discovery to production**: turn messy, regulated workflows into working software, demo it, iterate with users, ship it
+- **Integrations**: REST APIs, OAuth 2.0, MuleSoft, event-driven and batch interfaces between CRMs, EHR/claims systems and legacy data
+- **Applied AI**: LLM features with RAG, embeddings and semantic search, prompt engineering, evaluation and guardrails
+- **Enterprise-grade delivery**: PHI/PII-safe data handling, role-based access, CI/CD, monitoring and production support
 
 ---
 
-## 🛠️ Skills & Stack
+### 🛠️ Stack
 
-**Salesforce Platform**  
-`Apex` `LWC` `Aura` `Visualforce` `SOQL/SOSL` `Flows` `Process Builder` `Batch Apex` `Queueable Apex`
-
-**Clouds**  
-`Service Cloud` `Sales Cloud` `Experience Cloud` `Marketing Cloud`
-
-**Integrations**  
-`REST/SOAP APIs` `MuleSoft` `Platform Events` `Named Credentials` `OAuth 2.0` `Big Objects`
-
-**DevOps & CI/CD**  
-`SFDX / SF CLI` `GitLab` `Jenkins` `Copado` `Bitbucket` `Azure DevOps` `Blue Canvas`
-
-**Data & Analytics**  
-`Tableau` `PostgreSQL` `AWS S3` `Data Loader` `Workbench`
-
-**Languages & Tools**  
-`JavaScript` `HTML/CSS` `XML` `JSON` `Postman` `Jira` `Confluence`
+**Languages** `Python` `JavaScript` `SQL` `Apex`
+**Back end & APIs** `FastAPI` `Django` `Flask` `REST` `OAuth 2.0` `MuleSoft`
+**AI** `LLMs` `RAG` `Azure OpenAI` `Claude API` `FAISS` `Embeddings` `Prompt Engineering`
+**Platforms** `Salesforce (Service / Experience Cloud, Agentforce-ready)` `AWS` `Azure`
+**Data** `PostgreSQL` `MySQL` `MongoDB` `pandas`
+**DevOps** `Docker` `GitLab CI/CD` `Jenkins` `Linux` `systemd`
 
 ---
 
-## 💼 Experience
+### ⭐ Featured project
 
-### 🏥 Centene Corporation — Senior Salesforce Developer *(Aug 2025 – Present | Remote)*
-Enterprise Service Cloud solutions for healthcare member services & claims support. Built LWC-based Member Search frameworks, Apex REST integrations with MuleSoft, and Lightning Console customizations for call center agents. Managed CI/CD via GitLab, Jenkins & Copado across multi-org environments.
-
-### 🏛️ State of Indiana — Department of Child Services — Salesforce Consultant *(Jun 2023 – Jul 2025 | Dallas)*
-Designed the IN KIDS Case Management System on Experience Cloud for Provider & Family Portals. Integrated legacy CCIS data via MuleSoft, built Big Objects for high-volume historical records, configured SFMC for automated correspondence, and delivered real-time Tableau dashboards backed by PostgreSQL.
-
-### 💳 Triumph Financial — Salesforce Developer/Admin *(Jan 2023 – Jun 2023 | Dallas)*
-Built Equifax & Carrier Software integrations via Apex REST callouts, implemented Web-to-Lead with FIFO queue routing, migrated TriumphPay Online Application from Opportunity to Lead object, and managed CI/CD via Blue Canvas & Azure DevOps.
-
-### 🏦 Capital One — Salesforce Developer/Admin *(Feb 2021 – Dec 2022 | Dallas)*
-Developed Apex Batch classes processing 1M+ Medicaid eligibility records nightly, migrated Visualforce to Lightning, built Provider Community dashboards, and integrated Salesforce with pharmacy benefits managers via REST APIs.
-
-### 🌐 GCS Americas — Salesforce Developer/Admin *(Jul 2018 – Dec 2020 | Hyderabad, India)*
-Built SFA applications on Force.com, migrated 150K+ historical records, developed Lightning apps for lead scoring, and implemented multi-regional security & sharing models.
+#### [Job Search Agent](https://github.com/Nehanth0504/job-search-agent)
+An always-on agent, deployed on a Linux server, that watches **15,000+ employers' own careers sites** (Workday,
+Greenhouse, Ashby, iCIMS, Oracle, SuccessFactors and more), detects new postings within minutes, checks visa
+sponsorship and location, tailors resumes with **Claude** (with automatic fact checks on every generated line) and
+pre-fills applications for human review.
+`Python` `Flask` `SQLite` `Claude API` `Tailscale` `Chrome extension`
 
 ---
 
-## 🔗 Connect with me
+### 🏆 Certifications
+Salesforce Certified AI Associate · Platform Developer I · App Builder · Administrator
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehanthyarlagadda/)
-[![Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/nchowdary62)
+---
+
+📬 Open to **Forward Deployed Engineer** roles · nehanth0504@gmail.com
